@@ -11,17 +11,18 @@
     "generate": "prisma generate"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "prisma": "^3.0.0",
-    "zod": "^1.11.6",
-    "dotenv": "^10.0.0"
+    "express": "^4.21.2",
+    "@prisma/client": "^6.1.0",
+    "prisma": "^6.1.0",
+    "zod": "^3.24.1",
+    "dotenv": "^16.4.7"
   },
   "devDependencies": {
-    "typescript": "^4.3.2",
-    "ts-node": "^10.0.0",
-    "ts-node-dev": "^1.1.8",
-    "@types/node": "^14.14.31",
-    "@types/express": "^4.17.11"
+    "typescript": "^5.7.3",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "@types/node": "^22.10.5",
+    "@types/express": "^4.17.21"
   },
   "author": "Your Name",
   "license": "MIT"
